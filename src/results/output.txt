@@ -1,0 +1,91 @@
+                                            I-140
+                                 Case Types                                  |  Case Counts  |
+----------------------------------------------------------------------------------------------
+                                                          Case Was Approved  |           53  |
+                   Petition/Application Was Rejected For Insufficient Funds  |            2  |
+                                      Request for Initial Evidence Was Sent  |            1  |
+                       Response To USCIS' Request For Evidence Was Received  |            2  |
+                                 Notice Explaining USCIS Actions Was Mailed  |            1  |
+                     Form G-28 Was Rejected Because It Was Improperly Filed  |            5  |
+ Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted  |            5  |
+                                   Request for Additional Evidence Was Sent  |            5  |
+                                                          Case Was Received  |         1883  |
+                          Case Was Rejected Because It Was Improperly Filed  |           57  |
+                                   Case Was Sent To The Department of State  |           11  |
+                     Request for Initial and Additional Evidence Was Mailed  |           10  |
+  Notice Was Returned To USCIS Because The Post Office Could Not Deliver It  |           38  |
+                           Case Was Rejected Because I Did Not Sign My Form  |            7  |
+                                                           Name Was Updated  |            3  |
+                              Case Was Approved And My Decision Was Emailed  |           22  |
+                              Case Rejected Because I Sent An Incorrect Fee  |            6  |
+                            Case Was Received and A Receipt Notice Was Sent  |           14  |
+                                                            Case Was Denied  |            1  |
+Total entries 2126
+Total approved 75
+
+                                            I-485
+                                Case Types                                  |  Case Counts  |
+---------------------------------------------------------------------------------------------
+                          Case Was Updated To Show Fingerprints Were Taken  |          237  |
+                    Case Was Transferred And A New Office Has Jurisdiction  |            7  |
+                                                          Name Was Updated  |            1  |
+                                              Fingerprint Fee Was Received  |            6  |
+                                                 Date of Birth Was Updated  |            1  |
+                             Case Rejected Because I Sent An Incorrect Fee  |            6  |
+                         Case Was Rejected Because It Was Improperly Filed  |           52  |
+                                                         Case Was Received  |           36  |
+ Notice Was Returned To USCIS Because The Post Office Could Not Deliver It  |            1  |
+Total entries 347
+Total approved 0
+
+                                            I-765
+                                 Case Types                                  |  Case Counts  |
+----------------------------------------------------------------------------------------------
+                                                 New Card Is Being Produced  |           32  |
+                                                    Expedite Request Denied  |           11  |
+                                               Fingerprint Fee Was Received  |            3  |
+                     Form G-28 Was Rejected Because It Was Improperly Filed  |           12  |
+                                Card Was Delivered To Me By The Post Office  |           16  |
+                     Request for Initial and Additional Evidence Was Mailed  |            4  |
+                                                           Fees Were Waived  |           49  |
+                                Case Closed Benefit Received By Other Means  |            1  |
+                                 Primary And Ancillary Benefits Were Denied  |            2  |
+                           Case Was Rejected Because I Did Not Sign My Form  |           10  |
+                                                                        ...  |          ...  |
+                                                      Card Was Mailed To Me  |            1  |
+                        Case Rejected For Incorrect Fee And Form Not Signed  |            1  |
+ Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted  |            8  |
+                                   Request for Additional Evidence Was Sent  |            1  |
+                          Case Was Rejected Because It Was Improperly Filed  |           39  |
+                                                          Case Was Received  |         1318  |
+  Notice Was Returned To USCIS Because The Post Office Could Not Deliver It  |           57  |
+                           Case Was Updated To Show Fingerprints Were Taken  |           63  |
+                     Case Was Transferred And A New Office Has Jurisdiction  |            2  |
+                              Case Rejected Because I Sent An Incorrect Fee  |           69  |
+Total entries 1937
+Total approved 197
+
+                                                                                   I-131
+                              I-131 Case Types                               |  Case Counts  |  Earliest Date  |  Earliest Case Code  |  Latest Date  |  Latest Case Code  |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                          Case Was Approved  |           36  |     2023-08-31  |       LIN2390225552  |   2023-09-27  |     LIN2390228470  |
+                 Case Rejected For Incorrect Fee And Incorrect Form Version  |            5  |     2023-07-25  |       LIN2390224258  |   2023-07-28  |     LIN2390227399  |
+                   Petition/Application Was Rejected For Insufficient Funds  |            1  |     2023-09-18  |       LIN2390224733  |   2023-09-18  |     LIN2390224733  |
+                                                    Expedite Request Denied  |           18  |     2023-08-11  |       LIN2390227154  |   2023-09-25  |     LIN2390226204  |
+                                               Fingerprint Fee Was Received  |           91  |     2023-07-25  |       LIN2390223809  |   2023-07-31  |     LIN2390228055  |
+                     Form G-28 Was Rejected Because It Was Improperly Filed  |            6  |     2023-07-25  |       LIN2390223684  |   2023-07-31  |     LIN2390227850  |
+                        Case Rejected For Incorrect Fee And Form Not Signed  |           10  |     2023-07-25  |       LIN2390224069  |   2023-07-28  |     LIN2390227384  |
+ Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted  |            2  |     2023-07-26  |       LIN2390224726  |   2023-07-28  |     LIN2390226503  |
+                                                          Case Was Received  |          363  |     2023-07-10  |       LIN2390223638  |   2023-07-28  |     LIN2390228569  |
+                          Case Was Rejected Because It Was Improperly Filed  |           43  |     2023-07-25  |       LIN2390223726  |   2023-07-31  |     LIN2390228133  |
+                     Request for Initial and Additional Evidence Was Mailed  |            1  |     2023-09-25  |       LIN2390226161  |   2023-09-25  |     LIN2390226161  |
+                                Case Closed Benefit Received By Other Means  |            3  |     2023-09-11  |       LIN2390224207  |   2023-09-11  |     LIN2390227482  |
+  Notice Was Returned To USCIS Because The Post Office Could Not Deliver It  |            6  |     2023-08-14  |       LIN2390224415  |   2023-08-21  |     LIN2390226488  |
+                           Case Was Updated To Show Fingerprints Were Taken  |          405  |     2023-07-31  |       LIN2390226088  |   2023-09-27  |     LIN2390225784  |
+                           Case Was Rejected Because I Did Not Sign My Form  |           24  |     2023-07-25  |       LIN2390223679  |   2023-07-31  |     LIN2390227718  |
+                                                           Name Was Updated  |            1  |     2023-09-27  |       LIN2390224068  |   2023-09-27  |     LIN2390224068  |
+                              Case Rejected Because I Sent An Incorrect Fee  |          135  |     2023-07-25  |       LIN2390223660  |   2023-07-31  |     LIN2390228230  |
+                                                            Case Was Denied  |            2  |     2023-09-15  |       LIN2390224931  |   2023-09-15  |     LIN2390224932  |
+                                                Reentry Permit Was Produced  |            1  |     2023-09-25  |       LIN2390225872  |   2023-09-25  |     LIN2390225872  |
+Total entries 1153
+Total approved 36
